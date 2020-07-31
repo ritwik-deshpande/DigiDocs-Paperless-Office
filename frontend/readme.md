@@ -1,2 +1,2 @@
 # Frontend App
-This is the folder specific for frontend dev
+This is the folder specific for frontend dweb portal
